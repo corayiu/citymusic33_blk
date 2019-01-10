@@ -389,6 +389,7 @@ margin-top:5%;
 .press {
 	margin-top:5%;
 	padding:6%;
+	letter-spacing: -0.5px;
 }
 
 .disco {
@@ -397,6 +398,7 @@ margin-top:5%;
    padding:6%;
    margin-top:20%;
    font-size:5vw;
+   letter-spacing: -0.5px;
 }
 
 .title {
@@ -409,9 +411,11 @@ margin-top:5%;
 .work {
 	margin-top:5%;
    padding: 6%;
+   letter-spacing: -0.5px;
 }
 
 .radio {
    padding: 3% 6% 6% 6%;
+   letter-spacing: -0.5px;
 }
 }
